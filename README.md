@@ -94,11 +94,11 @@ Please review the [Contribution Guidelines](./CONTRIBUTING.md) for more details.
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me:
 
 - Email: engrahsaninam@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/engrahsaninam)
-- GitHub: [Your GitHub Profile](https://github.com/engrahsaninam)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/engrahsaninam)
+- GitHub: [My GitHub Profile](https://github.com/engrahsaninam)
 
 Thank you for visiting my GitHub profile repository. Happy coding and learning!
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourgithubprofile.yourrepository)](https://github.com/yourgithubprofile/yourrepository)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=engrahsaninam.engrahsaninam)](https://github.com/engrahsaninam/engrahsaninam)
 
 ---
