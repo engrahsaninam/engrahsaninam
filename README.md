@@ -19,9 +19,9 @@ Welcome to my GitHub profile repository! Here you'll find a collection of projec
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate data scientist and machine learning enthusiast. I have a strong background in Python programming and a keen interest in applying these skills to real-world data problems. I'm committed to sharing knowledge and collaborating with the open-source community to advance our understanding of data science, ML, and AI.
+Hello! I'm Ahsan Inam, a passionate data scientist and machine learning enthusiast. I have a strong background in Python programming and a keen interest in applying these skills to real-world data problems. I'm committed to sharing knowledge and collaborating with the open-source community to advance our understanding of data science, ML, and AI.
 
-You can learn more about me and my work on my [personal website](https://yourwebsite.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+You can learn more about me and my work on my [personal website](https://engrahsaninam.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/engrahsaninam).
 
 ## Repository Overview
 
