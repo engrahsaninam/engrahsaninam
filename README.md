@@ -5,7 +5,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Husnain!;I'm+a+Python+Lead+Developer...;I'm+also+a+Data+Science+Expert;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahsan!;I'm+a+Python+Lead+Developer...;I'm+also+a+Data+Science+Expert;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 
 
@@ -97,13 +97,13 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammadhusnainsarwar/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/engrahsaninam/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/husnain-ce">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/engrahsaninam">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/14855733/husnain-sarwar?tab=profile">
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/14597285/engr-ahsan-inam">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/14855733/husnain-sarwar?tab=profile">
+		<a style="margin-left: 10px;" target="_blank" href="engrahsaninam#5255">
 				<img width="45" height="45" src="https://img.icons8.com/dusk/64/discord-logo.png" alt="discord-logo"/></a>
 				
 				
